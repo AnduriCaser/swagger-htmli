@@ -1,5 +1,5 @@
 swagger: '2.0'
 info:
   title: XSS test
-  description: <a href="http://synack.com">Click</a> asd
+  description: <a href="http://synack.com">Click</a>
   version: production
